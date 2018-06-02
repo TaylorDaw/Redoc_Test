@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "/Users/tdaw/workspace/pulse360/doc/external_api/combined/redoc_test.json",
+    "name": "Flek_Test",
+    "repo": "TaylorDaw/Redoc_Test",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
